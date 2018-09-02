@@ -8,10 +8,15 @@ brew install imagemagick
 
 ## usage
 `cd album`
-`ls album`
+
+`ls`:
+
 - originals (contains JPGs)
+
 `./mackerel.sh`
-`ls album`
+
+`ls`:
+
 - originals (unchanged)
 - thumbnails (contains 300x300 jpgs)
 - photos (contains optimized JPGs)
