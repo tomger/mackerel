@@ -1,10 +1,10 @@
 # Mackerel
 
-## install https://brew.sh
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+## install
 
-##
-brew install imagemagick
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+`brew install imagemagick`
 
 ## usage
 `cd album`
